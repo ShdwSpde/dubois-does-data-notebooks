@@ -15,7 +15,7 @@ Each notebook starts with a table of its data sources (Library of Congress, U.S.
 
 ## Notes
 
-- The data is written into the notebooks, with a citation for each figure, so you can check any number against its source.
+- The figures are typed into the notebooks with their citations, rather than downloaded when you run them.
 - Notebook 6 is saved without its outputs to keep it small. Run All rebuilds the animations and interactive dashboards.
 
 Made by [Radical Imagination](https://radicalimagination.xyz), a cultural technology studio in Queens. "A people's art is the genesis of their freedom." Claudia Jones, 1959.
