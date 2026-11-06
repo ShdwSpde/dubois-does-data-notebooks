@@ -1,12 +1,8 @@
-# Du Bois Does Data, Notebooks
+# Du Bois Does Data: notebooks
 
-Open companion notebooks for **Du Bois Does Data**, a Radical Imagination project.
-They trace Black American life from W.E.B. Du Bois's 1900 Paris Exposition data
-portraits to today, 1900 to 2025, using public U.S. government data.
+Open notebooks for Du Bois Does Data, a Radical Imagination project. They follow Black American life from W.E.B. Du Bois's data portraits at the 1900 Paris Exposition to 2025, using public U.S. government data.
 
-Every notebook opens with a Data Sources and Provenance table (Library of
-Congress, U.S. Census, BLS) and runs end to end. Click a badge to open it live
-in Google Colab, no install required.
+Each notebook starts with a table of its data sources (Library of Congress, U.S. Census, Bureau of Labor Statistics) and runs from start to finish. Click a badge to open a notebook in Google Colab; nothing needs installing.
 
 | Notebook | Open |
 |---|---|
@@ -18,8 +14,8 @@ in Google Colab, no install required.
 | 6. Enhanced Visualizations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShdwSpde/dubois-does-data-notebooks/blob/main/6_enhanced_visualizations.ipynb) |
 
 ## Notes
-- Data is hardcoded with cited sources for presentation clarity; every figure is independently verifiable from the references in each notebook.
-- Notebook 6 ships code-only (the animations and interactive dashboards regenerate on Run All) to stay lightweight.
-- A people's art is a weapon of their liberation. — Claudia Jones
 
-Part of the Radical Imagination Constellation. radicalimagination.xyz
+- The data is written into the notebooks, with a citation for each figure, so you can check any number against its source.
+- Notebook 6 is saved without its outputs to keep it small. Run All rebuilds the animations and interactive dashboards.
+
+Made by [Radical Imagination](https://radicalimagination.xyz), a cultural technology studio in Queens. "A people's art is the genesis of their freedom." Claudia Jones, 1959.
